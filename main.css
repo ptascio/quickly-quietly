@@ -1,0 +1,15 @@
+body {
+  height: 100%;
+  width: 100%;
+  background: url('./images/SEVEN-Alt-no-logo.jpg');
+  background-position: 35% 35%;
+}
+
+
+.main-section {
+  height: 10%;
+  width: 10%;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
