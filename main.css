@@ -7,9 +7,9 @@ body {
 
 
 .main-section {
-  height: 10%;
-  width: 10%;
+  font-family: 'IM Fell DW Pica', serif;
+}
 
-  background-size: cover;
-  background-repeat: no-repeat;
+.main-section h1 {
+  font-size: 2em;
 }
