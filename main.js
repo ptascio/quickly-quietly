@@ -1,5 +1,5 @@
-
+var fadeInInt = 1000;
 $(".info div").each(function(i){
-  $(this).delay(500 * i).fadeIn(500);
-
+  $(this).delay(fadeInInt * i).fadeIn(fadeInInt);
+ fadeInInt=500;
 });
