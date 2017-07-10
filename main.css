@@ -7,11 +7,6 @@ html, body {
   background-position: 35% 35%;
 }
 
-img {
-
-}
-
-
 .main-section {
   height: 100%;
   width: 100%;
@@ -40,11 +35,20 @@ img {
 }
 
 .tint {
-  z-index: 1;
   height: 100%;
   width: 100%;
   position: absolute;
   top: 0px;
   left: 0px;
   background: rgba(0, 0, 0, 0.6);
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+.photo-container {
+  display: flex;
+  flex-direction: row;
 }
