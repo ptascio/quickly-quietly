@@ -4,7 +4,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: url('./images/SEVEN-Alt-no-logo.jpg');
-  background-position: 35% 35%;
+  background-position: 50% 50%;
 }
 
 .main-section {
@@ -41,6 +41,7 @@ html, body {
   top: 0px;
   left: 0px;
   background: rgba(0, 0, 0, 0.6);
+  overflow: auto;
 }
 
 img {
