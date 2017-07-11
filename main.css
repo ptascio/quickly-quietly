@@ -48,7 +48,11 @@ img {
   width: 50%;
 }
 
-.photo-container {
-  display: flex;
-  flex-direction: row;
+.band-pic {
+  margin-top: 20px;
+}
+
+.band-pic img {
+  border: 1px solid transparent;
+  border-radius: 3px;
 }
